@@ -1,4 +1,4 @@
-const backDomain = 'http://localhost:3000'
+const backDomain = 'https://rohit-portfolio-b69a.onrender.com'
 
 const summaryApi = {
     register : {
